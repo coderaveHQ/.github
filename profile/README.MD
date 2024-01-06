@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-WE ARE HERE TO VIBE TOGETHER! 🔥
+HERE FOR THE VIBE! 🔥
 </p>
