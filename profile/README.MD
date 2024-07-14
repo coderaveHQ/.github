@@ -1,1 +1,1 @@
-![coderaveHQ Wallpaper Dark](../assets/coderave-github-banner-dark-perlin.png)
+![coderaveHQ Wallpaper Dark](https://raw.githubusercontent.com/coderaveHQ/.github/main/assets/coderave-github-banner-dark-perlin.png)
