@@ -2,7 +2,7 @@
 
 Welcome to the coderaveHQ GitHub profile. We are a small team of developers and designers who love to create and share open-source projects. We are passionate about technology and enjoy working on a variety of projects.
 
-![coderaveHQ Wallpaper Dark](https://raw.githubusercontent.com/coderaveHQ/.github/main/assets/coderave-github-banner-dark-perlin.png)
+![coderaveHQ Banner Dark](https://raw.githubusercontent.com/coderaveHQ/coderave_brand_kit/main/banner/coderave-banner-dark-perlin.png)
 
 ## Contact Us
 
